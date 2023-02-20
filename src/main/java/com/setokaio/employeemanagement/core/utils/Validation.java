@@ -1,4 +1,4 @@
-package com.setokaio.employeemanagement.domain.utils;
+package com.setokaio.employeemanagement.core.utils;
 
 import com.setokaio.employeemanagement.domain.entity.Departamento;
 

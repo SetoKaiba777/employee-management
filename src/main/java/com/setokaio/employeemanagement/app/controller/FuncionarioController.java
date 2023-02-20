@@ -1,8 +1,8 @@
 package com.setokaio.employeemanagement.app.controller;
 
 import com.setokaio.employeemanagement.app.dto.output.FuncionarioOutputDTO;
-import com.setokaio.employeemanagement.domain.service.FuncionarioService;
 import com.setokaio.employeemanagement.core.mapper.FuncionarioMapper;
+import com.setokaio.employeemanagement.domain.service.FuncionarioService;
 import io.swagger.v3.oas.annotations.Operation;
 import io.swagger.v3.oas.annotations.responses.ApiResponse;
 import io.swagger.v3.oas.annotations.responses.ApiResponses;
